@@ -19,7 +19,7 @@ def execute_option1():
 
 def amazonapp():
     init(convert=True)
-    ctypes.windll.kernel32.SetConsoleTitleW("Amazon Gen and Checker Made With Python By TOG6#6666")
+    ctypes.windll.kernel32.SetConsoleTitleW("Amazon Gen and Checker Made With Python By IpTested")
     text = """
     ░█████╗░███╗░░░███╗░█████╗░███████╗░█████╗░███╗░░██╗  ░██████╗░███████╗███╗░░██╗  
     ██╔══██╗████╗░████║██╔══██╗╚════██║██╔══██╗████╗░██║  ██╔════╝░██╔════╝████╗░██║  
